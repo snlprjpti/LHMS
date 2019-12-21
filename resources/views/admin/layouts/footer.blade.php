@@ -14,9 +14,7 @@
     <script src={{url("lib/bootstrap/dist/js/bootstrap.min.js")}}></script>
     <!-- AdminLTE App -->
     <script src={{url("dist/js/adminlte.min.js")}}></script>
-    <script src={{url("dist/js/jquery.jscroll.js")}}></script>
 
-    <script src={{url("lib/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js")}}></script>
     <script src={{url("plugins/iCheck/icheck.min.js")}}></script>
     <script src={{url("lib/datatables.net/js/jquery.dataTables.min.js")}}></script>
     <script src={{url("lib/datatables.net-bs/js/dataTables.bootstrap.min.js")}}></script>
